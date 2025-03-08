@@ -12,3 +12,4 @@ C:\Users\PC\OneDrive - Ensign College\Documents\CSHARPDEMO\CSE210-HW\obj\Debug\n
 C:\Users\PC\OneDrive - Ensign College\Documents\CSHARPDEMO\CSE210-HW\obj\Debug\net8.0\CSE210-HW.pdb
 C:\Users\PC\OneDrive - Ensign College\Documents\CSHARPDEMO\CSE210-HW\obj\Debug\net8.0\CSE210-HW.genruntimeconfig.cache
 C:\Users\PC\OneDrive - Ensign College\Documents\CSHARPDEMO\CSE210-HW\obj\Debug\net8.0\ref\CSE210-HW.dll
+C:\Users\PC\OneDrive - Ensign College\Documents\CSHARPDEMO\CSE210-HW\obj\Debug\net8.0\CSE210-HW.sourcelink.json
